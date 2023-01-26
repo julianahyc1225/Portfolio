@@ -9,7 +9,7 @@ function Iterative() {
   return (
     <div className="Project">
         <div className='back_button'>
-           <a href='/CS1300_Portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
+           <a href='/portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
         </div>
         <div className='Project_intro'>
           <p style={{fontSize:'4rem',display:'inline'}}> Circular  <br/><br/> </p>
