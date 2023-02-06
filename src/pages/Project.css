@@ -22,12 +22,12 @@
 }
   .Project_intro{
     padding-left: 15%;
-    padding-right: 40%;
-    padding-top: 9rem;
-    height: 25rem;
+    padding-right: 38%;
+    padding-top: 5rem;
+    height: 23rem;
     text-align: left;
-    font-size: 1.5rem;
-    line-height: 3rem;
+    font-size: 1.3rem;
+    line-height: 2.5rem;
     background-color: #F2F3F5 ;
   }
 
@@ -38,19 +38,19 @@
     display: flex;
     flex-direction: column;
     gap: 2.5rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     line-height: 2.3rem;
   }
 
   .section_title{
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     line-height: 5rem;
     margin-bottom: 1rem;
     text-transform: uppercase; 
   }
 
   .section_subtitle{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     line-height: 2rem;
     color: #4682B4;
   }

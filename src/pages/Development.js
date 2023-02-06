@@ -12,7 +12,7 @@ function Development() {
            <a href='/portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
         </div>
         <div className='Project_intro'>
-          <p style={{fontSize:'4rem',display:'inline'}}> JHan's Virtual Gallery <br/><br/> </p>
+          <p style={{fontSize:'3rem',display:'inline'}}> JHan's Virtual Gallery <br/><br/> </p>
           <p style={{color:'#4682B4',display:'inline'}}><b>Implementing </b></p> an interactive gallery webpage using components and updated data state while incorporating visual design principles.
         </div>
 

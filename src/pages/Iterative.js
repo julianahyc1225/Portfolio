@@ -12,7 +12,7 @@ function Iterative() {
            <a href='/portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
         </div>
         <div className='Project_intro'>
-          <p style={{fontSize:'4rem',display:'inline'}}> Circular  <br/><br/> </p>
+          <p style={{fontSize:'3rem',display:'inline'}}> Circular  <br/><br/> </p>
           <p style={{color:'#4682B4',display:'inline'}}><b>Analyzing </b></p>  peer and user feedback on the webpage redesign prototype for a tech start-up to match design goals with actual user experiences.
         </div>
 

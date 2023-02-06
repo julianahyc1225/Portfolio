@@ -12,7 +12,7 @@ function Responsive() {
            <a href='/portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
         </div>
         <div className='Project_intro'>
-          <p style={{fontSize:'4rem',display:'inline'}}> HENG Thai Rotisserie  <br/><br/> </p>
+          <p style={{fontSize:'3rem',display:'inline'}}> HENG Thai Rotisserie  <br/><br/> </p>
           <p style={{color:'#4682B4',display:'inline'}}><b>Experimenting </b></p> ways to improve a local restaurant's webpage by identifying current problems and enhancing visual and logical organization.
             
         </div>

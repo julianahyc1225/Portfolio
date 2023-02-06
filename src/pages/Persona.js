@@ -12,7 +12,7 @@ function Persona() {
            <a href='/portfolio'><button> &lt;  Back to Projects</button><br/><br/></a> 
         </div>
         <div className='Project_intro'>
-          <p style={{fontSize:'4rem',display:'inline'}}> Coffee Vending Machine <br/><br/> </p>
+          <p style={{fontSize:'3rem',display:'inline'}}> Coffee Vending Machine <br/><br/> </p>
           <p style={{color:'#4682B4',display:'inline'}}><b>Understanding </b></p> different user journeys by creating personas and a storyboard for the offee vending machine located at a Brown library.
         </div>
 
